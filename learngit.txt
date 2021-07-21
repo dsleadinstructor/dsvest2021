@@ -1,0 +1,2 @@
+1. Learning Git takes time.   All those commands.  
+2. Learning Git is fun.   It helps build resilence. 
