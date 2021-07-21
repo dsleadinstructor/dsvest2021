@@ -1,3 +1,8 @@
 1. Learning Git takes time.   All those commands.  
 2. Learning Git is fun.   It helps build resilence.
 3. Learning Git is a process.  It can be a maze. 
+
+Questions
+1. What are some main details when learning git?
+2. What is confusing about learning git? 
+3. Describe why Git is a distributed system? 
