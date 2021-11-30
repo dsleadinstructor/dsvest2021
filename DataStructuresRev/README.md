@@ -1,16 +1,12 @@
-# Sprint Challenge: Data Structures
+# Data Structures Review
 
-In this week's Sprint you implemented some classic and fundamental data structures and learned about how to go about evaluating their respective runtimes and performance. This Sprint Challenge aims to assess your comfort with these topics through exercises that build on the data structures you implemented and the algorithmic intuition you've started to build up.
+Implement some classic and fundamental data structures and learned about how to go about evaluating their respective runtimes and performance. This review aims to assess your comfort with these topics through exercises that build on the data structures you implemented and the algorithmic intuition you've started to build up.
 
 ## Instructions
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
-This is an individual assessment. All work must be your own. Your Challenge score is a measure of your ability to work independently using the material covered throughout this sprint. You need to demonstrate proficiency in the concepts and objectives that were introduced and that you practiced in the preceding days.
-
-You are not allowed to collaborate during the Sprint Challenge. However, you are encouraged to follow the twenty-minute rule and seek support from your TL and Instructor in your cohort help channel on Slack. Your submitted work reflects your proficiency in the concepts and topics that were covered this week.
-
-You have three hours to complete this Sprint Challenge. Plan your time accordingly.
+This is a group reviewassessment. All work must be your own. Your Challenge score is a measure of your ability to work independently using the material covered throughout this sprint. You need to demonstrate proficiency in the concepts and objectives that were introduced and that you practiced in the preceding days.
 
 ## Commits
 
@@ -18,7 +14,7 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 ## Description
 
-This Sprint Challenge is split into three parts:
+This Review is split into three parts:
 
 1. Implement a data structure called a ring buffer (more details below)
 2. Optimizing some inefficient code
